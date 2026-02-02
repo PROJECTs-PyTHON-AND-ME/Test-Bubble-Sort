@@ -32,4 +32,4 @@ No additional package installation is required.
 Run the program from the terminal:
 
 ```bash
-python3 activity_4.py# System-Management-Note
+python3 activity_4.py
